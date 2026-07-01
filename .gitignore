@@ -1,0 +1,9 @@
+retail.db
+files.zip
+.DS_Store
+__pycache__/
+*.pyc
+.DS_Store
+data/retail.db
+data/index.faiss
+data/chunks.json
